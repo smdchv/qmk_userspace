@@ -1,4 +1,13 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        {
+            "keyboard": "dztech/dz60rgb_ansi/v2",
+            "keymap": "smdchv"
+        },
+        {
+            "keyboard": "melgeek/mj61/rev2",
+            "keymap": "smdchv"
+        }
+    ]
 }
