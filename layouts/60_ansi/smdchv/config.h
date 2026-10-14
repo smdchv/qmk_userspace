@@ -2,7 +2,7 @@
 
 /* Debounce reduces chatter (unintended double-presses) */
 #undef DEBOUNCE
-#define DEBOUNCE 7
+#define DEBOUNCE 5
 
 /* RGB Matrix: only the built-in solid color mode, every animated effect disabled */
 #undef RGB_MATRIX_DEFAULT_MODE
